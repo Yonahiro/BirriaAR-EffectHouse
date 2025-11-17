@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "2f8e24a9-3771-175a-b032-ba34734d1733",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "birriaplate",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "authorizationInfo": ""
+  }
+]

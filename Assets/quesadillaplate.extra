@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "9b58c95a-977e-e0bf-4fbf-8faa7a5c7845",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "quesadillaplate",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "authorizationInfo": ""
+  }
+]

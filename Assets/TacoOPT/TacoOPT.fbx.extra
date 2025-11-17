@@ -1,0 +1,62 @@
+[
+  {
+    "guid": {
+      "a": "b2721286-ac75-0186-8c4b-bff10f7070ba",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "TacoOPT",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "importVertexColor": true,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": false,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "resourceFilePath": "C:\\Users\\Salch\\Desktop\\TacoOPT.fbx",
+    "materialsGUIDs": [
+      "1533f42b-3bbd-6f70-5ba8-2024a7d93c3c",
+      "c3826136-22bc-bcfe-1410-74305762f76a"
+    ],
+    "meshGUIDs": [
+      "f400320e-4b78-ccd6-5034-76a5d4c4ad47",
+      "004e19ac-99eb-44ac-3d98-851ab1162dc7"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

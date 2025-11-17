@@ -1,0 +1,62 @@
+[
+  {
+    "guid": {
+      "a": "c8aeab31-1aca-e0f5-c7ce-361ca141e3b9",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "quesadillaplate",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "importVertexColor": true,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": false,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "resourceFilePath": "C:\\Users\\Salch\\Desktop\\quesadillaplate.fbx",
+    "materialsGUIDs": [
+      "966c2850-c4f9-24b0-77e3-5bdf3f7c8afe",
+      "a6d54ef3-0f28-ef16-4e6d-6ef396570f8e"
+    ],
+    "meshGUIDs": [
+      "1cb9b772-a966-e385-baaf-41609db7a523",
+      "823f5cfc-7567-d5a4-e7d1-1da6a3d25aa4"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

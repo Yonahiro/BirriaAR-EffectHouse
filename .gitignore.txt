@@ -1,0 +1,9 @@
+# Effect House Files to Ignore
+
+# Generated cache and library files
+Library/
+Record/
+
+# Optional: Ignore files created by the OS
+.DS_Store
+Thumbs.db

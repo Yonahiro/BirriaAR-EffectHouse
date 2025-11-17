@@ -1,0 +1,54 @@
+[
+  {
+    "guid": {
+      "a": "85e333c2-9d76-9dcb-f33e-e17a261d9b49",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "default_tex0002",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.6.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "rttiType": "Material",
+    "authorizationInfo": "",
+    "resourceFilePath": "C:\\Users\\Salch\\AppData\\Local\\Effect House\\Resources\\BuiltinResource\\assets\\OrionShaderLibrary\\3D\\BuiltIn\\StandardPBR\\Standard PBR.omtl",
+    "skinObjGuid": "Guid(5577521755858846016, 17964628717847399084)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "d69954e4-9daa-2f1c-4c18-f5143a60cbb2"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_NormalTexture",
+        "guid": "00000000-0000-0000-0000-00000000001f"
+      },
+      {
+        "propertyName": "_MRAOTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_EmissiveTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RimHighlightTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_ThinFilmTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RadianceTexture",
+        "guid": "00000000-0000-0000-0000-000000000805"
+      }
+    ],
+    "currAuslVersion": "2.0.6"
+  }
+]

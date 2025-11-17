@@ -1,0 +1,62 @@
+[
+  {
+    "guid": {
+      "a": "1be6e080-b2e8-29e4-efeb-72bf9823a986",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "birriaplate",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "importVertexColor": true,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": false,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "resourceFilePath": "C:\\Users\\Salch\\Desktop\\birriaplate.fbx",
+    "materialsGUIDs": [
+      "eb91484d-f961-f581-6f37-e80ac9498211",
+      "85e333c2-9d76-9dcb-f33e-e17a261d9b49"
+    ],
+    "meshGUIDs": [
+      "c1313833-5c0b-eaf6-1acf-5e1c8f426138",
+      "2b7cc330-3188-872e-d2c7-4454d13a1745"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

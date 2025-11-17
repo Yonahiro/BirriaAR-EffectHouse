@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "73eae177-5b03-0a5a-b4f3-57a88f4b4b9b",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "tex_u0_v0_diffuse",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "rttiType": "Texture",
+    "authorizationInfo": "",
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

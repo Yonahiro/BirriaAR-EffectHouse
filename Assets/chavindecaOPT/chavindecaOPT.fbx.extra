@@ -1,0 +1,62 @@
+[
+  {
+    "guid": {
+      "a": "656d4c34-82b7-4e89-3cb7-35368f69fca9",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "chavindecaOPT",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "rttiType": "Model",
+    "authorizationInfo": "",
+    "importVertexColor": true,
+    "importBlendshape": true,
+    "importAnimation": true,
+    "importVertexAnimation": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "importCamera": false,
+    "importLights": false,
+    "optimizeAnimation": true,
+    "convertMetersToCentimeters": false,
+    "castShadow": false,
+    "rigMatchArray": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "needAutoRigMatch": true,
+    "resourceFilePath": "C:\\Users\\Salch\\Desktop\\chavindecaOPT.fbx",
+    "materialsGUIDs": [
+      "1887e005-1aee-a94c-c300-6231fda0b9eb",
+      "7ee2ff66-7ea5-a34e-d8d9-4426f28a1ace"
+    ],
+    "meshGUIDs": [
+      "63bfdd14-026f-a0ee-d8b0-7a547a380a8d",
+      "3a21e2e1-5e8a-0949-e3c6-63982ba7995d"
+    ],
+    "animazGUIDs": [],
+    "animazExtras": []
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "3017a9c5-5686-12a4-0654-918961c3b3fc",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "chavindecaOPT",
+    "expandInPanel": false,
+    "objGuid": "",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "authorizationInfo": ""
+  }
+]
