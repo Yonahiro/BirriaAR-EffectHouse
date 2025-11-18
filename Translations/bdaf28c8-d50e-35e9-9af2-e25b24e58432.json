@@ -1,14 +1,14 @@
 {
-  "userText": "QUESABIRRIA",
-  "en": "QUESABERY",
-  "id": "PERTANYAAN",
-  "vi": "QUESABERY",
-  "th": "คำถาม",
-  "ar": "سؤال",
-  "bn": "প্রশ্ন",
-  "pt": "QUESABIRRIA",
-  "fr": "QUESTIONNAIRE",
-  "es": "CUESTIÓN",
-  "ru": "ВОПРОС",
-  "tr": "QUESABERY"
+  "userText": "QUESABIRRIA $30 MXN",
+  "en": "QUESABERRY $30 MXN",
+  "ar": "سؤال $30 MXN",
+  "pt": "QUESABIRRIA $30 MXN",
+  "es": "QUESABERRY $30 MXN",
+  "id": "CEPAT $30 MXN",
+  "fr": "QUESABERRY 30 $MXN",
+  "ru": "ВОПРОС $30 MXN",
+  "tr": "QUESABERRY 30 $MXN",
+  "bn": "QUESABERRY $ 30 MXN",
+  "th": "คำถาม $30 MXN",
+  "vi": "QUESABERRY $30 MXN"
 }

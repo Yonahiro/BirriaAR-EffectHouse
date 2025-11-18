@@ -872,7 +872,7 @@ config:
   RTInputDeferredCopy: true
 msaa:
   __class: MSAAMode
-  value: _4X
+  value: NONE
 jsScriptSystems:
   - !<str> js/AmazingProRuntime.js
   - !<str> js/Graph/GraphSystem.js
@@ -1277,75 +1277,3 @@ pivot: {x: 0.5, y: 0.5}
 anchors: {x: 0.5, y: 0.5, z: 0.5, w: 0.5}
 pixelsPerUnit: 32
 enablePivotMatrix: true
---- !TextBackground &33
-name: !<str> ""
-guid: {a: 4936781868779411683, b: 9528513593429099705}
-enabled: true
-startIndex: 0
-endIndex: 0
-loop: false
-loopGap: 0
-renderType:
-  __class: TextBackgroundRenderType
-  value: SOLID
-color: {r: 0, g: 0, b: 0, a: 1}
-alpha: 1
-scale: 1
-rotation: 0
-expandX: 0
-expandY: 0
-offsetX: 0
-offsetY: 0
-roundness: 0
-texturePath: !<str> ""
-textureFlipX: false
-textureFlipY: false
-textureScale: 1
-textureAlpha: 1
-textureAngle: 0
-textureStretchMode:
-  __class: ImageStretchMode
-  value: Fit
-textureOffsetX: 0
-textureOffsetY: 0
-extraMatrix: {__class: Matrix4x4f, values: [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]}
-gradientAngle: 90
-gradientStyle:
-  __class: GradientStyle
-  value: Linear
---- !TextBackground &34
-name: !<str> ""
-guid: {a: 5109688912084863498, b: 10991182616163983760}
-enabled: true
-startIndex: 0
-endIndex: 0
-loop: false
-loopGap: 0
-renderType:
-  __class: TextBackgroundRenderType
-  value: SOLID
-color: {r: 0, g: 0, b: 0, a: 1}
-alpha: 1
-scale: 1
-rotation: 0
-expandX: 0
-expandY: 0
-offsetX: 0
-offsetY: 0
-roundness: 0
-texturePath: !<str> ""
-textureFlipX: false
-textureFlipY: false
-textureScale: 1
-textureAlpha: 1
-textureAngle: 0
-textureStretchMode:
-  __class: ImageStretchMode
-  value: Fit
-textureOffsetX: 0
-textureOffsetY: 0
-extraMatrix: {__class: Matrix4x4f, values: [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]}
-gradientAngle: 90
-gradientStyle:
-  __class: GradientStyle
-  value: Linear
